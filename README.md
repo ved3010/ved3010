@@ -1,5 +1,5 @@
-# yo, I'm ved ✌️
+# yo, I'm ved ✌️<br>
 
-💻 information technology student at VIT PUNE
-🎓 frontend developer
-🧠 web ui designer ✨
+💻 information technology student at VIT PUNE<br>
+🎓 frontend developer<br>
+🧠 web ui designer ✨<br>
